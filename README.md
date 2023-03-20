@@ -25,5 +25,5 @@ Les invités ne peuvent pas agir sur l'application.
 - Adrien R
 - Adrien S
 
-Nous avons commencé tous les deux de notre coté à prendre en main truffle box et faire les amélioration sur le smart contract Voting. Puis nous avons travaillé ensemble sur le front end. Adrien R a pris en charge la partie Administration et Adrien S la partie Voteur. Nous avons ensuite réuni notre travail puis avancé en parallèle sur des tâches plus globales.
+Nous avons commencé tous les deux de notre coté à prendre en main truffle box et faire les améliorations sur le smart contract Voting. Puis nous avons travaillé ensemble sur le front end. Adrien R a pris en charge la partie Administration et Adrien S la partie Voteur. Nous avons ensuite réuni notre travail puis avancé en parallèle sur des tâches plus globales.
 
