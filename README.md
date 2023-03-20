@@ -2,9 +2,8 @@
 
 Notre projet est un système de vote en ligne. Il permet à des utilisateurs de soumettre des propositions, de voter pour ces propositions et découvrir les résultats.
 
-## Deploiement
-La dApp est déployée sur Vercel, et le smart contract de Voting sur Mumbai
-Le smart contract Voting est deployé sur mumbai (adresse : )
+## Déploiement
+La dApp est déployée sur [Vercel](https://alyra-voting-dapp.vercel.app/). Le smart contract Voting est deployé sur [Mumbai](https://mumbai.polygonscan.com/address/0xe63069b760b9e675c6b4005e7c812938df447c85).
 
 ## Démonstration
 
